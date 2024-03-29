@@ -12,7 +12,7 @@ module Nanoc::WeasyPrint
     # @return [Array<String>]
     #  The default command line options forwarded to weasyprint.
     def self.default_argv
-      []
+      @default_argv ||= []
     end
 
     ##
