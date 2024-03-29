@@ -4,7 +4,7 @@ nanoc-weasyprint.rb is a
 [nanoc](https://nanoc.app)
 filter that integrates
 [weasyprint](https://github.com/Kozea/WeasyPrint)
-into nanoc. <br>
+into nanoc.
 The filter can create PDF documents from markdown
 and other markup languages during the
 [nanoc](https://nanoc.app)
